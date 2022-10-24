@@ -2,7 +2,7 @@
 
 ## 참여방법
 - 개인 reposigory로 Fork
-- n주차 폴더 안에 본인 성으로 (ex. Won.class , You.class, Park1.class) 로 Class 작성
+- n주차 폴더(ex W1) 안에 본인성_문제번호 으로 (ex. Won_001.java , You_001.java, Park_001.java) 로 java class 작성
 - 개인 reposigory로 push 후 PR
 
 ## 도전 문제
