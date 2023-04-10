@@ -1,4 +1,4 @@
-package baemin202304;
+package bm202304;
 
 import java.util.ArrayList;
 import java.util.Arrays;
