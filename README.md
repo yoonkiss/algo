@@ -7,11 +7,14 @@
 
 ## 도전 문제
 
-
 ### W1
 - https://www.acmicpc.net/problem/2023 신기한 소수
 - https://www.acmicpc.net/problem/13023 ABCDE
 
 ### W2
-- 
+- [003] 구간 합 구하기 1
+- [004] 구간 합 구하기 2
 
+### 3주차 - BFS
+백준 2023 - https://www.acmicpc.net/problem/2023
+백준 13023 - https://www.acmicpc.net/problem/13023

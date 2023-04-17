@@ -1,10 +1,12 @@
+package W1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 
 // 002: Mem: 14348 mb, Time: 132 ms, Line: 841
-public class Main {
+public class Park_002 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
