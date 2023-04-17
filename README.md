@@ -6,11 +6,10 @@
 - 개인 reposigory로 push 후 PR
 
 ## 도전 문제
-<hr>
 
 ### W1
-- [001] 숫자의 합 구하기
-- [002] 평균 구하기
+- https://www.acmicpc.net/problem/2023 신기한 소수
+- https://www.acmicpc.net/problem/13023 ABCDE
 
 ### W2
 - [003] 구간 합 구하기 1
